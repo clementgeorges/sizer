@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Sizer
+Comment=Resize a batch of images to one width
+Exec=sizer open %F
+Icon=sizer
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+MimeType=image/jpeg;image/png;image/webp;image/bmp;image/tiff;image/gif;
+Keywords=resize;scale;shrink;images;photos;batch;
+StartupWMClass=sizer

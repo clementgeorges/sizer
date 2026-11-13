@@ -1,0 +1,8 @@
+{
+  "%n images": { "one": "%n image", "other": "%n images" },
+  "%n selected": { "one": "%n selected", "other": "%n selected" },
+  "Apply to %n Selected": { "one": "Apply to %n Selected", "other": "Apply to %n Selected" },
+  "Saved %n images to %1": { "one": "Saved %n image to %1", "other": "Saved %n images to %1" },
+  "%n resized images haven't been saved yet.": { "one": "%n resized image hasn't been saved yet.", "other": "%n resized images haven't been saved yet." },
+  "%n images could not be saved.": { "one": "%n image could not be saved.", "other": "%n images could not be saved." }
+}
